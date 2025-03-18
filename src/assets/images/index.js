@@ -1,5 +1,5 @@
-import V from "./V.svg";
+import v from "./v.svg";
 import Ebslon from "./Ebslon.webp";
 import logo3 from "./logo3.jpg";
 
-export {V, Ebslon, logo3 };
+export {v, Ebslon, logo3 };
